@@ -1,0 +1,41 @@
+Participant,First condition,Condition,Task,Task category,Question,Correct (0/1),Time (seconds),Confidence (simulated 1-5)
+P01,Static,Static,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,54,4
+P01,Static,Static,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,0,91,2
+P01,Static,Interactive,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,39,4
+P01,Static,Interactive,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,1,62,4
+P02,Static,Static,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,48,4
+P02,Static,Static,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,1,76,4
+P02,Static,Interactive,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,42,4
+P02,Static,Interactive,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,1,58,4
+P03,Static,Static,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,0,88,2
+P03,Static,Static,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,1,69,4
+P03,Static,Interactive,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,51,4
+P03,Static,Interactive,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,0,94,3
+P04,Static,Static,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,44,4
+P04,Static,Static,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,1,71,4
+P04,Static,Interactive,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,56,4
+P04,Static,Interactive,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,1,83,4
+P05,Static,Static,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,52,4
+P05,Static,Static,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,0,98,3
+P05,Static,Interactive,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,63,4
+P05,Static,Interactive,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,1,79,4
+P06,Interactive,Static,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,59,4
+P06,Interactive,Static,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,0,105,2
+P06,Interactive,Interactive,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,43,4
+P06,Interactive,Interactive,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,1,67,4
+P07,Interactive,Static,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,47,4
+P07,Interactive,Static,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,1,73,4
+P07,Interactive,Interactive,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,36,4
+P07,Interactive,Interactive,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,1,61,4
+P08,Interactive,Static,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,66,4
+P08,Interactive,Static,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,1,82,4
+P08,Interactive,Interactive,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,49,4
+P08,Interactive,Interactive,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,1,72,4
+P09,Interactive,Static,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,0,96,3
+P09,Interactive,Static,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,1,86,4
+P09,Interactive,Interactive,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,61,4
+P09,Interactive,Interactive,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,1,77,4
+P10,Interactive,Static,A2,Activity maximum,Which coffee shop has the highest average People Counted during evening observations?,1,57,4
+P10,Interactive,Static,B2,Period comparison,Which coffee shop has the largest absolute difference between its afternoon and evening average People Counted?,1,74,4
+P10,Interactive,Interactive,A1,Activity maximum,Which coffee shop has the highest average People Counted during morning observations?,1,53,4
+P10,Interactive,Interactive,B1,Period comparison,Which coffee shop has the largest absolute difference between its morning and afternoon average People Counted?,0,112,2

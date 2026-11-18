@@ -1,0 +1,5 @@
+Pilot participant,Condition,Task,Correct (0/1),Time (seconds),Notes
+Pilot-01,Static,A1,1,71,Simulated pilot record
+Pilot-01,Interactive,A2,1,54,Simulated pilot record
+Pilot-02,Interactive,B1,1,83,Simulated pilot record
+Pilot-02,Static,B2,0,120,Simulated pilot record; reached time limit
